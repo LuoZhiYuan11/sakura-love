@@ -795,7 +795,7 @@ export default function SakuraTextEffect() {
 
       {/* Audio element with external link - using the specified NetEase music ID */}
       <audio ref={audioRef} loop preload="auto" className="hidden">
-        <source src="https://music.163.com/song/media/outer/url?id=1422912854.mp3" type="audio/mpeg" />
+        <source src="https://music.163.com/#/song?id=2124731026" type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
 
